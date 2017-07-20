@@ -1,0 +1,16 @@
+PODS:
+  - TestPod (0.0.1)
+
+DEPENDENCIES:
+  - TestPod (from `./TestPod.podspec`)
+
+EXTERNAL SOURCES:
+  TestPod:
+    :path: "./TestPod.podspec"
+
+SPEC CHECKSUMS:
+  TestPod: a4f7dd6f43cf885cb75239a4b0de0d4b79b6e1bb
+
+PODFILE CHECKSUM: c6e46abbf675d3c0600dfe4da5ec18155114a74a
+
+COCOAPODS: 1.2.1
